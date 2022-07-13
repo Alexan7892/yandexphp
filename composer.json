@@ -1,5 +1,5 @@
 {
-    "name": "nixsolutions/yandex-php-library",
+    "name": "nixsolutions/yandex-php-library-clone",
     "description": "Official Yandex PHP library",
     "keywords":["yandex","sdk"],
     "type":"library",
